@@ -1,0 +1,16 @@
+com\cfg\user\service\entities\Enums\Ratings.class
+com\cfg\user\service\entities\Rating.class
+com\cfg\user\service\entities\User.class
+com\cfg\user\service\UserServiceApplication.class
+com\cfg\user\service\entities\User$UserBuilder.class
+com\cfg\user\service\services\impl\UserServiceImpl.class
+com\cfg\user\service\entities\Hotel$HotelBuilder.class
+com\cfg\user\service\payload\ApiResponse.class
+com\cfg\user\service\payload\ApiResponse$ApiResponseBuilder.class
+com\cfg\user\service\exceptions\ResourceNotFoundException.class
+com\cfg\user\service\entities\Rating$RatingBuilder.class
+com\cfg\user\service\services\userService.class
+com\cfg\user\service\repositories\userRepository.class
+com\cfg\user\service\controllers\UserController.class
+com\cfg\user\service\entities\Hotel.class
+com\cfg\user\service\exceptions\GlobalExceptionHandler.class
