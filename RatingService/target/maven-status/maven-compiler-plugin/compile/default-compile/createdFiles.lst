@@ -1,0 +1,7 @@
+com\example\RatingService\Entity\Rating.class
+com\example\RatingService\Repo\RatingRepo.class
+com\example\RatingService\Controller\RatingController.class
+com\example\RatingService\Entity\Rating$RatingBuilder.class
+com\example\RatingService\Service\RatingService.class
+com\example\RatingService\RatingServiceApplication.class
+com\example\RatingService\Service\Impl\RatingServiceImpl.class
